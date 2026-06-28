@@ -11,4 +11,31 @@
 پایتون ۳.۸+
 گیت
 
-راهنما نصبtUfa
+راهنما نصب
+```
+apt update && apt upgrade -y
+pkg install git python3
+git clone https://github.com/sinashabani08-maker/Dragon.git
+cd Dragon
+python3 Dragon.py
+```
+
+راهنمای اجرا
+```
+1
+```
+برای نصب کیج
+```
+dragon -in -p -sa
+```
+و اینتر کنید و بعد نام پکیج را وارد کنید فقط نام بیشتر پکیج ها در بروز رسانی جدید منتشر میشه
+
+برای نصب ابزار
+```
+dragon -in -p -ab
+```
+و اسم ابزار فعلن فقط ابزار هایدار نصب میکنه تا بعد اضافه کنیم بهش
+
+
+
+پیروز و موفق باشید تیم KINGHacker
